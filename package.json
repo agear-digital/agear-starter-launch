@@ -1,0 +1,35 @@
+{
+  "name": "agear-starter-launch",
+  "version": "1.0.1",
+  "description": "Créateur de nouveau projet saytup et e-majine",
+  "main": "bin.js",
+  "dependencies": {
+    "gunzip-maybe": "^1.0.2",
+    "minimist": "^1.1.0",
+    "read": "^1.0.5",
+    "request": "^2.40.0",
+    "streaming-format": "^1.0.0",
+    "tar-fs": ">=0.5.0"
+  },
+  "devDependencies": {},
+  "bin": {
+    "agear-starter-launch": "./bin.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agear-digital/agear-starter-launch"
+  },
+  "keywords": [
+    "create",
+    "project",
+    "scaffold",
+    "template",
+    "templating"
+  ],
+  "author": "Antony Chauviré",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agear-digital/agear-starter-launch/issues"
+  },
+  "homepage": "https://github.com/agear-digital/agear-starter-launch"
+}
